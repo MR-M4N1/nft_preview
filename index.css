@@ -96,6 +96,18 @@ main {
     padding-bottom: 20px;
 }
 
+@media screen and (min-width:426px) {
+    body{
+        justify-content: center;
+    }
+
+    .attribution{
+        position: fixed;
+        bottom: 10px;
+        right: 25%;
+        left: 25%;
+    }
+}
 .left_Info {
     margin-left: 15px;
     font-family: Outfit;
