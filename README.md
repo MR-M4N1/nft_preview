@@ -24,7 +24,7 @@
 
 ### Links
 
-- Solution URL: [GIT_URL](https://your-solution-url.com)
+- Solution URL: [GIT_URL](https://github.com/MR-M4N1/nft_preview)
 - Live Site URL: [GIT_LIV](https://your-live-site-url.com)
 
 
